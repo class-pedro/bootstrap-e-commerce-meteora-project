@@ -1,0 +1,44 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.btn-purple {
+    background-color: #9353ff;
+}
+
+.green-items {
+    color: #daff01;
+}
+
+.txt-white {
+    color: #ffffff;
+}
+
+.btn-ver-mais:hover, .btn-cadastro-email:hover {
+    box-shadow: #a26dff 0 0 15px;
+    color: white;
+}
+
+.link-product {
+    text-decoration: none;
+    color: black;
+}
+
+.link-product:hover {
+    text-decoration: underline;
+    color: #9353ff;
+}
+
+.link-categorias {
+    text-decoration: none;
+    color: white;
+}
+
+.link-categorias:hover {
+    text-decoration: underline;
+    color: white;
+}
